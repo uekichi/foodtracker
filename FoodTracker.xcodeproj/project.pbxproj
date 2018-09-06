@@ -14,6 +14,7 @@
 		94934B17213CA5220039FD9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94934B15213CA5220039FD9F /* LaunchScreen.storyboard */; };
 		94934B22213CA5220039FD9F /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94934B21213CA5220039FD9F /* FoodTrackerTests.swift */; };
 		94A1ECAF2140137F0084559E /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A1ECAE2140137F0084559E /* Meal.swift */; };
+		94B5A857214111FB00672B2D /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B5A856214111FB00672B2D /* MealTableViewCell.swift */; };
 		94E2338B213F4C8400EB1FBF /* RatingControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E2338A213F4C8400EB1FBF /* RatingControlViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		94934B21213CA5220039FD9F /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		94934B23213CA5220039FD9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		94A1ECAE2140137F0084559E /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		94B5A856214111FB00672B2D /* MealTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
 		94E2338A213F4C8400EB1FBF /* RatingControlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControlViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,6 +65,7 @@
 		94934B00213CA5200039FD9F = {
 			isa = PBXGroup;
 			children = (
+				94B5A856214111FB00672B2D /* MealTableViewCell.swift */,
 				94934B0B213CA5200039FD9F /* FoodTracker */,
 				94934B20213CA5220039FD9F /* FoodTrackerTests */,
 				94934B0A213CA5200039FD9F /* Products */,
@@ -207,6 +210,7 @@
 				94934B0F213CA5200039FD9F /* ViewController.swift in Sources */,
 				94934B0D213CA5200039FD9F /* AppDelegate.swift in Sources */,
 				94E2338B213F4C8400EB1FBF /* RatingControlViewController.swift in Sources */,
+				94B5A857214111FB00672B2D /* MealTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
