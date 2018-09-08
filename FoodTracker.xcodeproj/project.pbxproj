@@ -67,7 +67,6 @@
 		94934B00213CA5200039FD9F = {
 			isa = PBXGroup;
 			children = (
-				94B5A856214111FB00672B2D /* MealTableViewCell.swift */,
 				94934B0B213CA5200039FD9F /* FoodTracker */,
 				94934B20213CA5220039FD9F /* FoodTrackerTests */,
 				94934B0A213CA5200039FD9F /* Products */,
@@ -86,11 +85,12 @@
 		94934B0B213CA5200039FD9F /* FoodTracker */ = {
 			isa = PBXGroup;
 			children = (
+				94934B10213CA5200039FD9F /* Main.storyboard */,
+				94B5A856214111FB00672B2D /* MealTableViewCell.swift */,
+				94B5A85A21411AB500672B2D /* MealTableViewController.swift */,
 				94934B0C213CA5200039FD9F /* AppDelegate.swift */,
 				94934B0E213CA5200039FD9F /* MealViewController.swift */,
 				94E2338A213F4C8400EB1FBF /* RatingControlViewController.swift */,
-				94934B10213CA5200039FD9F /* Main.storyboard */,
-				94B5A85A21411AB500672B2D /* MealTableViewController.swift */,
 				94A1ECAE2140137F0084559E /* Meal.swift */,
 				94934B13213CA5220039FD9F /* Assets.xcassets */,
 				94934B15213CA5220039FD9F /* LaunchScreen.storyboard */,
